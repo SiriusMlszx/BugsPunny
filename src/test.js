@@ -2,7 +2,7 @@ const string = `
 /* 仔意，🐟仔给你画个兔八哥 */
 .container{
   position:relative;
-  left: 25px;
+  left: 30px;
   
 }
 body {

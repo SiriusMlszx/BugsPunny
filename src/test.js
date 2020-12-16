@@ -3,6 +3,7 @@ const string = `
 .container{
   position:relative;
   left: 25px;
+  
 }
 body {
   background-color: #FAE97F;
